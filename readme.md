@@ -113,7 +113,7 @@ We provide a simple inference demo that allows users to generate images from tex
 ```bash
  PYTHONPATH=. python tools/run_inference.py --cfg config/inference_config/models/ace_0.6b_512.yaml --instruction "make the boy cry, his eyes filled with tears" --seed 199999 --input_image examples/input_images/example0.webp
 ```
-We recommend runing the examples for quick testing. Running the following command will run the example inference and the results will be saved in `examples/output_images/`.
+We recommend running the examples for quick testing. Running the following command will run the example inference and the results will be saved in `examples/output_images/`.
 ```bash
 PYTHONPATH=. python tools/run_inference.py --cfg config/inference_config/models/ace_0.6b_512.yaml
 ```
