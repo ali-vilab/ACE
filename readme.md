@@ -185,10 +185,10 @@ python main.py
 ## 📝 Citation
 
 ```bibtex
-@article{han2024ace,
+@inproceedings{han2025ace,
   title={ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer},
   author={Han, Zhen and Jiang, Zeyinzi and Pan, Yulin and Zhang, Jingfeng and Mao, Chaojie and Xie, Chenwei and Liu, Yu and Zhou, Jingren},
-  journal={arXiv preprint arXiv:2410.00086},
-  year={2024}
+  booktitle={The Thirteenth International Conference on Learning Representations}
+  year={2025}
 }
 ```
