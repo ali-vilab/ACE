@@ -185,10 +185,11 @@ python main.py
 ## 📝 Citation
 
 ```bibtex
-@inproceedings{han2025ace,
-  title={ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer},
-  author={Han, Zhen and Jiang, Zeyinzi and Pan, Yulin and Zhang, Jingfeng and Mao, Chaojie and Xie, Chenwei and Liu, Yu and Zhou, Jingren},
-  booktitle={The Thirteenth International Conference on Learning Representations}
-  year={2025}
+@inproceedings{ICLR2025_ACE,
+ title = {ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer},
+ author = {Han, Zhen and Jiang, Zeyinzi and Pan, Yulin and Zhang, Jingfeng and Mao, Chaojie and Xie, Chen-Wei and Liu, Yu and Zhou, Jingren},
+ booktitle = {International Conference on Representation Learning},
+ pages = {57096--57111},
+ year = {2025}
 }
 ```
